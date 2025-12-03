@@ -6,7 +6,7 @@
 
 My Github page is http://github.com/Owen0311
 
-### CPSC 120 Favorite Labs
+### CPSC 120 Favorite Labs!
 
 * Lab 6, part 2 was one of my favorites because Black Jack is a game of probability. Creating a function for Black Jack really put into perspective the use of if statements as well as else ifs when it comes to probability. This lab was a good way to really understand how Black Jack works and gives you a little bit of an edge when it comes to playing.
 
