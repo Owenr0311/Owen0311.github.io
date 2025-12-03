@@ -4,7 +4,7 @@
 
 ## Computer Science Projects
 
-My Github page is http://github.com/Owen0311. 
+My Github page is http://github.com/Owen0311
 
 ### CPSC 120 Favorite Labs
 
